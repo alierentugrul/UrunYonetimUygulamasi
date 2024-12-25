@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flatlaf-3.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/yedekd/out/production/yedek/lib/flatlaf-3.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
